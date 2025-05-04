@@ -1,0 +1,3 @@
+Sensor1: 25.5 C
+Sensor2: 78% RH
+Sensor3: 1013 hPa
